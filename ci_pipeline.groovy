@@ -4,7 +4,6 @@ pipeline {
     tools {
         nodejs 'nodejs'
     }
-
     environment {
         dependency_check_tool = tool 'DP' // Ensure this matches the tool name
         scanner_home = tool 'sonar-scanner'
