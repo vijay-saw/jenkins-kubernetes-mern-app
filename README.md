@@ -1,4 +1,5 @@
 CI/CD Pipeline for MERN Application
+
 Overview
 This repository contains a Jenkins pipeline configuration designed to automate the Continuous Integration and Continuous Deployment (CI/CD) process for a MERN (MongoDB, Express.js, React.js, Node.js) application. The pipeline automates essential tasks to ensure a seamless development and deployment workflow, enabling developers to focus on coding rather than manual processes.
 
